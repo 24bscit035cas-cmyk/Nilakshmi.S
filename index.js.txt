@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Simple JS Example</title>
+</head>
+<body>
+
+
+  <h1>Welcome to JavaScript</h1>
+  <p id="message">Click the button to see magic!</p>
+  
+  <button onclick="showMessage()">Click Me</button>
+
+
+  <script>
+    function showMessage() {
+      document.getElementById("message").innerHTML = "🎉 Hello, JavaScript is working!";
+      alert("You clicked the button!");
+    }
+  </script>
+
+
+</body>
+</html>

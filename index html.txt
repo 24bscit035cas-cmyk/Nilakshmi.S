@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Simple Page</title>
+</head>
+<body>
+    <h1>Welcome to My Page</h1>
+    <p>Hello! This is a simple HTML page.</p>
+    <p>Created by Nilakshmi 😊</p>
+
+
+    <h2>My Hobbies</h2>
+    <ul>
+        <li>Reading</li>
+        <li>Coding</li>
+        <li>Listening to Music</li>
+    </ul>
+
+
+    <h2>My Favorite Website</h2>
+    <a href="https://www.google.com" target="_blank">Visit Google</a>
+</body>
+</html>
